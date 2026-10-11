@@ -1,0 +1,51 @@
+{
+  "fp32_size_kb": 18.09,
+  "int8_size_kb": 27.93,
+  "fp32_accuracy": 80.85,
+  "int8_accuracy": 80.56,
+  "accuracy_drop": 0.28,
+  "fp32_latency_ms": 0.09,
+  "int8_latency_ms": 0.2,
+  "per_class": {
+    "bật": {
+      "fp32_acc": 73.08,
+      "int8_acc": 73.08
+    },
+    "bếp": {
+      "fp32_acc": 76.47,
+      "int8_acc": 79.41
+    },
+    "khách": {
+      "fp32_acc": 77.42,
+      "int8_acc": 77.42
+    },
+    "ngủ": {
+      "fp32_acc": 93.94,
+      "int8_acc": 93.94
+    },
+    "noise": {
+      "fp32_acc": 97.92,
+      "int8_acc": 97.92
+    },
+    "phòng": {
+      "fp32_acc": 72.73,
+      "int8_acc": 69.7
+    },
+    "quạt": {
+      "fp32_acc": 77.78,
+      "int8_acc": 77.78
+    },
+    "tắt": {
+      "fp32_acc": 84.85,
+      "int8_acc": 81.82
+    },
+    "unknown": {
+      "fp32_acc": 91.18,
+      "int8_acc": 91.18
+    },
+    "đèn": {
+      "fp32_acc": 61.7,
+      "int8_acc": 61.7
+    }
+  }
+}

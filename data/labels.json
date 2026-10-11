@@ -1,0 +1,38 @@
+{
+  "classes": [
+    "bật",
+    "bếp",
+    "khách",
+    "ngủ",
+    "noise",
+    "phòng",
+    "quạt",
+    "tắt",
+    "unknown",
+    "đèn"
+  ],
+  "label_to_idx": {
+    "bật": 0,
+    "bếp": 1,
+    "khách": 2,
+    "ngủ": 3,
+    "noise": 4,
+    "phòng": 5,
+    "quạt": 6,
+    "tắt": 7,
+    "unknown": 8,
+    "đèn": 9
+  },
+  "idx_to_label": {
+    "0": "bật",
+    "1": "bếp",
+    "2": "khách",
+    "3": "ngủ",
+    "4": "noise",
+    "5": "phòng",
+    "6": "quạt",
+    "7": "tắt",
+    "8": "unknown",
+    "9": "đèn"
+  }
+}
